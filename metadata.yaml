@@ -1,0 +1,27 @@
+_repo: Lost-on-the-Moon--Or-in-Quest-of-the-Field-of-Diamonds_7473
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rockwood, Roy
+    gutenberg_agent_id: '1625'
+    url: http://www.gutenberg.org/2009/agents/1625
+    wikipedia: http://en.wikipedia.org/wiki/Roy_Rockwood
+description: 'Great Marvel Series: Volume 5'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moon -- Exploration -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Diamonds -- Fiction'
+- GITenberg
+title: Lost on the Moon; Or, in Quest of the Field of Diamonds
+url: http://www.gutenberg.org/ebooks/7473
